@@ -11,7 +11,7 @@ The analysis is performed using Python and includes data cleaning, visualization
 
 ## 📊 Dashboard / Chart Preview
 
-![Sales Trend](yearly_sales.png)
+![Sales Trend](sales-analysis-python/yearly_sales.png)
 
 
 
