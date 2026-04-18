@@ -8,13 +8,11 @@ This project analyzes retail sales data to understand business performance acros
 The analysis is performed using Python and includes data cleaning, visualization, and business insights.
 
 
-## 📊 Project Highlights
 
-• Data Cleaning and Preprocessing
-• Sales and Profit Analysis
-• Region-wise and Category-wise Performance
-• Trend Analysis over Time
-• Visualization using charts
+## 📊 Dashboard / Chart Preview
+
+![Sales Trend](yearly_sales.png)
+
 
 
 ## 🛠 Tools & Technologies
@@ -23,6 +21,15 @@ The analysis is performed using Python and includes data cleaning, visualization
 • Pandas
 • Matplotlib
 • Seaborn
+
+
+
+## 📁 Dataset Information
+
+• Dataset Format: Excel (.xlsx)
+• Dataset Source: Kaggle
+• The dataset contains information on sales, profit, region, category, and discounts.
+
 
 
 ## 📈 Key Insights
@@ -42,14 +49,17 @@ The analysis is performed using Python and includes data cleaning, visualization
 • Improve cost management for better profitability.
 
 
-## 📁 Files Included
+## 📂 Files Included
 
 • analysis.py
-• sales_data.csv
-• Visualization charts (.png files)
-
+• sales_data.xlsx
+• yearly_sales.png
+• Other visualization charts (.png files)
 
 
 ## 👩‍💻 Author
 
 Muskan Yadav
+
+
+
